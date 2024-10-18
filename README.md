@@ -11,6 +11,8 @@ dpm set-device-owner 'dev.oddbyte.mydroid/.MyDeviceAdminReceiver' && pm grant de
 ## IMPORTANT:
 You *MUST* remove **ALL** accounts (Google accounts, etc.) on your device.
 
+<sup>You can add them back after setup</sup>
+
 If you get error message `Not allowed to set the profile/device owner because there are already some accounts on the device` make sure all accounts are removed.
 
 You can use the ADB command `dumpsys account | grep -A 3 Accounts:` to reveal remaining accounts (including the hidden ones on some devices).
