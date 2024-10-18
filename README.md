@@ -1,6 +1,6 @@
 # MyDroid
 ## It's your phone, you should have control over it
-### Gives you access to "hidden" permissions that your device manufacturer might hide from you.
+### Gives you access to "hidden" settings that your device manufacturer might hide from you.
 
 ## IMPORTANT:
 You *MUST* remove **ALL** accounts (Google accounts, etc.) on your device **before setup**.
