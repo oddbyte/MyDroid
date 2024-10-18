@@ -17,3 +17,8 @@ You can use the ADB command `dumpsys account | grep -A 3 Accounts:` to reveal re
 ```
 dpm set-device-owner 'dev.oddbyte.mydroid/.MyDeviceAdminReceiver' && pm grant dev.oddbyte.mydroid android.permission.REQUEST_INSTALL_PACKAGES && pm grant dev.oddbyte.mydroid android.permission.PACKAGE_USAGE_STATS && pm grant dev.oddbyte.mydroid android.permission.WRITE_SECURE_SETTINGS && pm grant dev.oddbyte.mydroid android.permission.REBOOT && pm grant dev.oddbyte.mydroid android.permission.SET_TIME && pm grant dev.oddbyte.mydroid android.permission.SET_TIME_ZONE && pm grant dev.oddbyte.mydroid android.permission.MANAGE_USERS && pm grant dev.oddbyte.mydroid android.permission.ACCESS_NOTIFICATION_POLICY && pm grant dev.oddbyte.mydroid android.permission.DISABLE_KEYGUARD && pm grant dev.oddbyte.mydroid android.permission.READ_PHONE_STATE
 ```
+
+## Pictures:
+
+![image](https://github.com/user-attachments/assets/c0b5906a-8d70-49bc-ac76-822f6eca373e) ![image](https://github.com/user-attachments/assets/5db49a80-5f41-4d00-baca-50549004f620) ![image](https://github.com/user-attachments/assets/c04ea1a7-983d-433a-b813-f1e5cd27516e) ![image](https://github.com/user-attachments/assets/4bb24c01-da25-4e76-b5a5-df4f811e1583)
+
